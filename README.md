@@ -2,6 +2,12 @@
 
 Daphne Qin, Ruiwen Tang
 
+To run this program, type in `make` in your terminal, and the computer will do the rest. The output will be a graduation cap.
+
+This program uses custom `.mdl` files, which supply the instructions for the program to draw. All sample files are in `mdl_files`. To change which file is used, edit the second line of the makefile with the desired `.mdl` file.
+
+
+
 During this project, we pair programmed on Zoom, with one person sharing their screen at a time. Due to this, there may be a disproportionate number of commits by certain people, but we did equal amounts of work.
 
 ## Implementations
